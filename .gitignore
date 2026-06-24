@@ -1,0 +1,14 @@
+# Ignore build artifacts and temporary files
+*.exe
+*.o
+*.obj
+*.log
+*.out
+*.tmp
+*.cache
+*.vs/
+build/
+bin/
+*.user
+*.DS_Store
+Thumbs.db

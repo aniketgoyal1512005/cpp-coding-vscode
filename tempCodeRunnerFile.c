@@ -1,0 +1,1 @@
+printf("%d  ",arr3[i][j]);
